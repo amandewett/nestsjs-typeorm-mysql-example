@@ -42,17 +42,17 @@ npm start
 ```
 
 ## Generate files
-### generate module
+Generate module
 ```sh
 nest g mo module-name
 ```
 
-### generate controller
+Generate controller
 ```sh
 nest g co controller-name
 ```
 
-### generate service
+Generate service
 ```sh
 nest g s service-name
 ```
